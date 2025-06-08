@@ -26,7 +26,7 @@
 <p>👨‍💻 Created by <a href="https://zimin.dev/" target="_blank" >Sasha Zimin</a>. &copy; All Rights Reserved.</p>
 ```
 ```html
-<p>👨‍💻 Designed & developed by <a href="https://zimin.dev/" target="_blank">Sasha Zimin</a>. All rights reserved © 2025.</p>
+<p class="copy">👨‍💻 Designed & Developed by <a class="copy-link" href="https://zimin.dev/" target="_blank" rel="noopener noreferrer">Sasha Zimin</a>.</p>
 ```
 
 
