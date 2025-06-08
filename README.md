@@ -23,6 +23,6 @@
 -->
 ```
 ```html
-<p>👨‍💻 Created by <a href="https://zimin.dev/" target="_blank" >Sasha Zimin</a>. All Rights Reserved.</p>
+<p>👨‍💻 Created by <a href="https://zimin.dev/" target="_blank" >Sasha Zimin</a>. &copy; All Rights Reserved.</p>
 ```
 
